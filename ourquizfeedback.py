@@ -1,3 +1,3 @@
 
-feedback = 9.333333333333334
-no_people = 3
+feedback = 9.0
+no_people = 4
