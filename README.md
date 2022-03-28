@@ -1,9 +1,10 @@
 # Terminal-Quiz
-Self coding terminal based quiz app.
+First python project to learn Python programming language.
 
-### Python
+### Implementation
 
-- A python program that uses intelligence to create new executable python file which are actually Quiz when run. <br />
-- They include normal quiz and also level based quiz (Level of ques depends on previous answers). <br />
-- People can create thein own python executable programs just by giving simple text inputs. <br />
-- The responces of their quiz are collected in a text file.
+* A python script that uses intelligence to generate a quiz template in the form executable python.
+* When the main file is executed it has an option to create a custom quiz.
+* User can create a quiz with a custom number of questions.
+* It also support a level-up quiz (Level of questions depend on previous correct answers).
+* The responses of the quiz are stored in a text file.
